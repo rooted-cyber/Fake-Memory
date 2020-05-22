@@ -18,5 +18,4 @@ else
 cd fake
 unzip full.zip
 bash fake.sh
-w
 fi
