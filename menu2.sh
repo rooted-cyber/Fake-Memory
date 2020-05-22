@@ -10,7 +10,6 @@ h() {
 	cd ~/Fake-Memory/fake
 	h
 	}
-	}
 	cd ~/Fake-Memory
 if [ -e fake.sh ];then
 cd fake
