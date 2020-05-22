@@ -11,11 +11,10 @@ h() {
 	h
 	}
 	cd ~/Fake-Memory
+	cd fake
 if [ -e fake.sh ];then
-cd fake
 bash fake.sh
 else
-cd fake
 unzip full.zip
 bash fake.sh
 fi
